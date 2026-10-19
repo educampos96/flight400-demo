@@ -4,12 +4,12 @@
 
 window.FLIGHT400_CONFIG = {
 
-  companyName:  'IBM Innovation Studio Austin',
-  eventName:    'FLIGHT400 Lab',
+  companyName:  'IBM Bob',
+  eventName:    'Innovation Studio Austin',
   eventDate:    'Tuesday, October 20, 2026',  // ← set the event date, e.g. "Tuesday, June 10, 2025"
 
   primaryColor: '#0f62fe',
-  accentColor:  '#009d9a',
+  accentColor:  '#f0ab00',
 
   boxFolderUrl: null,           // ← set to Box folder URL with credentials, or leave null
 
